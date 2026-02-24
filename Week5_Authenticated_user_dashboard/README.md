@@ -1,8 +1,8 @@
 
 # authenticated_user_dashboard
 
-A new Flutter project.<img width="1320" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-02-24 at 12 09 05" src="https://github.com/user-attachments/assets/da972843-c4c8-4610-b2d0-881f0530f9fa" />
-<img width="1320" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-02-24 at 12 08 59" src="https://github.com/user-attachments/assets/5503b440-5493-4610-a7fa-a8b3c16271be" />
+A new Flutter project.<img width="100" height="300" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-02-24 at 12 09 05" src="https://github.com/user-attachments/assets/da972843-c4c8-4610-b2d0-881f0530f9fa" />
+<img width="100" height="300" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-02-24 at 12 08 59" src="https://github.com/user-attachments/assets/5503b440-5493-4610-a7fa-a8b3c16271be" />
 
 
 ## Getting Started
